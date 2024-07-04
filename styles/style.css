@@ -1,0 +1,28 @@
+.header{
+    height: 300px;
+    /* background-color: antiquewhite; */
+    background-image: url( '../media/coding.jpg ');
+    /* background-size: 300px; */
+    /* background-size: contain; */
+    background-size: cover;
+    /* background-repeat: no-repe   at; */
+    /* background-repeat: repeat-x; */
+}
+ 
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+}
+.blog{
+    border: 20px solid rebeccapurple;
+    background-color: antiquewhite;
+    margin: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px  15px rgb(0, 0, 0);
+
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
